@@ -3,7 +3,7 @@
 A Kafka-powered real-time messaging system built with **Docker** and **Python**. This project establishes a robust messaging pipeline where messages are sent by a Kafka producer and received in real-time by a Kafka consumer. Ideal for demonstrating distributed, event-driven data flow.
 
 ## Overview
-k
+
 This system enables real-time communication between microservices using Kafka as the backbone. It leverages Docker for isolated, containerized deployment and uses the `kafka-python` library for interacting with Kafka from Python scripts.
 
 ## Technologies Used 
