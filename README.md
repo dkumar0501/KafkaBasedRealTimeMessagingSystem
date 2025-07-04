@@ -11,7 +11,7 @@ This system enables real-time communication between microservices using Kafka as
 - Apache Kafka  
 - Zookeeper  
 - Docker & Docker Compose  
-- Python 3.x  
+- Python 3.13.0
 - kafka-python  
 
 ## Key Features
