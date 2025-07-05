@@ -31,6 +31,11 @@ This system enables real-time communication between microservices using Kafka as
 
 ## Project Working Screenshots
 
+![Screenshot 2025-07-05 141059](https://github.com/user-attachments/assets/534fd9bb-65d1-4940-88f4-5b65b19b99bd)
+
+![Screenshot 2025-07-05 141742](https://github.com/user-attachments/assets/3e73884c-898e-4994-9ccc-d9748e294df1)
+
+![Screenshot 2025-07-05 141831](https://github.com/user-attachments/assets/82366f83-7b26-4e88-94ae-9c0162e7dae9)
 
 ## Installation
 
