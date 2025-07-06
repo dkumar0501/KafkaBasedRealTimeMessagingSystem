@@ -1,4 +1,4 @@
-# Kafka-Based Real-Time Messaging System
+# Kafka Based Real Time Messaging System
 
 A Kafka-powered real-time messaging system built with **Docker** and **Python**. This project establishes a robust messaging pipeline where messages are sent by a Kafka producer and received in real-time by a Kafka consumer. Ideal for demonstrating distributed, event-driven data flow.
  
