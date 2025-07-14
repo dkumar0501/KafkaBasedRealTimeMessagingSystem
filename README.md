@@ -5,7 +5,7 @@ A Kafka-powered real-time messaging system built with **Docker** and **Python**.
 ## Overview    
   
 This system enables real-time communication between microservices using Kafka as the backbone. It leverages Docker for isolated, containerized deployment and uses the `kafka-python` library for interacting with Kafka from Python scripts.
-
+ 
 ## Technologies Used 
     
 - Apache Kafka   
