@@ -6,7 +6,7 @@ consumer = KafkaConsumer(
     auto_offset_reset='earliest',
     enable_auto_commit=True,
     group_id='my-group'
-)
+) 
 
 print("Reading messages from Kafka:")
 for message in consumer:
