@@ -1,7 +1,7 @@
 from kafka import KafkaProducer
 
 producer = KafkaProducer(bootstrap_servers='localhost:9092')
-
+ 
 topic = 'deep-topic' 
 for i in range(10): 
     message = f'Hello Kafka {i}'
