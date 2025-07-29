@@ -1,5 +1,5 @@
 from kafka import KafkaConsumer
-
+ 
 consumer = KafkaConsumer(
     'juyel-topic', 
     bootstrap_servers='localhost:9092',  
