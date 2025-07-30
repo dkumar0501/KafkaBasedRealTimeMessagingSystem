@@ -12,3 +12,4 @@ print("Reading messages from Kafka:")
 for message in consumer:
     print(f"Received: {message.value.decode('utf-8')}")
 
+/textbf
