@@ -1,5 +1,5 @@
 from kafka import KafkaConsumer
- 
+  
 consumer = KafkaConsumer(  
     'dkumar0501-topic',     
     bootstrap_servers='localhost:9092',     
@@ -12,6 +12,7 @@ print("Reading messages from Kafka:")
 for message in consumer:
     print(f"Received: {message.value.decode('utf-8')}")
  
+
 
 
 
