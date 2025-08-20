@@ -8,9 +8,10 @@ for i in range(10):
     producer.send(topic, value=message.encode('utf-8'))
     print(f"Sent: {message}") 
  
-producer.flush()
+producer.flush() 
   
  
+
 
 
 
