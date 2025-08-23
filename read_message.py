@@ -7,11 +7,12 @@ consumer = KafkaConsumer(
     enable_auto_commit=True, 
     group_id='my-group'  
 )      
-   
+     
 print("Reading messages from Kafka:") 
 for message in consumer:
     print(f"Received: {message.value.decode('utf-8')}")
   
+
 
 
 
