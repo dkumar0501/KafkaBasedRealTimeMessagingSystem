@@ -1,6 +1,6 @@
 from kafka import KafkaProducer
 
-producer = KafkaProducer(bootstrap_servers='localhost:9092')
+producer = KafkaProducer(bootstrap_servers='localhost:9008')
  
 topic = 'dkumar0501-topic' 
 for i in range(10): 
@@ -13,6 +13,7 @@ producer.flush()
    
  
  
+
 
 
 
