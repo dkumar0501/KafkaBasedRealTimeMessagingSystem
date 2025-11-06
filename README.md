@@ -17,10 +17,7 @@
 
 ## 📘 Overview
 
-The **Kafka Based Real-Time Messaging System** demonstrates a **distributed, event-driven messaging pipeline** built with **Apache Kafka** and **Docker**.  
-Messages are sent by a Python-based Kafka producer and received by a consumer in real time — simulating robust data flow between microservices or applications.
-
-This project provides a **hands-on implementation** of asynchronous communication and event streaming fundamentals using Kafka in a fully containerized environment.
+The **Kafka Based Real Time Messaging System** demonstrates a **distributed, event driven messaging pipeline** built with **Apache Kafka** and **Docker**. Messages are sent by a Python based Kafka producer and received by a consumer in real time simulating robust data flow between microservices or applications. This project provides a **hands on implementation** of asynchronous communication and event streaming fundamentals using Kafka in a fully containerized environment.
 
 ---
 
@@ -29,7 +26,7 @@ This project provides a **hands-on implementation** of asynchronous communicatio
 - Real-time message streaming between producer and consumer  
 - Fully containerized setup using **Docker Compose**  
 - **Kafka** and **Zookeeper** orchestration in isolated containers  
-- Lightweight **Python producer-consumer scripts** using `kafka-python`  
+- Lightweight **Python producer-consumer scripts** using `kafka python`  
 - Scalable and modular for multi-service architectures  
 - Extendable for analytics, monitoring, or IoT pipelines  
 
@@ -40,7 +37,7 @@ This project provides a **hands-on implementation** of asynchronous communicatio
 | Component | Description |
 |------------|-------------|
 | **Core Technologies** | Apache Kafka, Zookeeper |
-| **Programming Language** | Python 3.13 with kafka-python |
+| **Programming Language** | Python 3.13 with kafka python |
 | **Containerization** | Docker & Docker Compose |
 | **Architecture Type** | Distributed Event-Driven Messaging |
 | **Deployment** | Works locally or in cloud containers |
