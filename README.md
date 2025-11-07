@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/badge/kafka--python-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Kafka-Python">
 </p>
 
----
+
 
 ## 📘 Overview
 
 The **Kafka Based Real Time Messaging System** demonstrates a **distributed, event driven messaging pipeline** built with **Apache Kafka** and **Docker**. Messages are sent by a Python based Kafka producer and received by a consumer in real time simulating robust data flow between microservices or applications. This project provides a **hands on implementation** of asynchronous communication and event streaming fundamentals using Kafka in a fully containerized environment.
 
----
+
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ The **Kafka Based Real Time Messaging System** demonstrates a **distributed, eve
 - Scalable and modular for multi-service architectures  
 - Extendable for analytics, monitoring, or IoT pipelines  
 
----
+
 
 ## 🧠 Technical Overview
 
@@ -42,7 +42,7 @@ The **Kafka Based Real Time Messaging System** demonstrates a **distributed, eve
 | **Architecture Type** | Distributed Event-Driven Messaging |
 | **Deployment** | Works locally or in cloud containers |
 
----
+
 
 ## ⚙️ Workflow
 
@@ -53,7 +53,7 @@ The **Kafka Based Real Time Messaging System** demonstrates a **distributed, eve
 
 This workflow simulates real-world microservice data flow and asynchronous communication.
 
----
+
 
 ## 📷 Project Working Screenshots
 
@@ -61,7 +61,7 @@ This workflow simulates real-world microservice data flow and asynchronous commu
 ![Kafka Messaging Screenshot 2](https://github.com/user-attachments/assets/3e73884c-898e-4994-9ccc-d9748e294df1)
 ![Kafka Messaging Screenshot 3](https://github.com/user-attachments/assets/82366f83-7b26-4e88-94ae-9c0162e7dae9)
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -71,7 +71,7 @@ This workflow simulates real-world microservice data flow and asynchronous commu
 - Deploy on **AWS** or **Google Cloud** with container orchestration  
 - Implement **stream monitoring dashboard** using **Grafana**  
 
----
+
 
 ## 👨‍💻 Author
 
