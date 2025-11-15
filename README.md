@@ -4,7 +4,7 @@
   <strong>Backend • Distributed Systems • Event Streaming • Docker • Apache Kafka</strong>
 </p> 
     
-<!-- Badges -->    
+<!-- Badges -->     
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
   <img src="https://img.shields.io/badge/ZooKeeper-FF6F00?style=for-the-badge&logo=apache&logoColor=white" alt="Zookeeper"> 
