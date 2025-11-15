@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>Backend • Distributed Systems • Event Streaming • Docker • Apache Kafka</strong>
-</p> 
+</p>  
     
 <!-- Badges -->      
 <p align="left">
