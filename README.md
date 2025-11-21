@@ -1,7 +1,7 @@
 <h1 align="left">Kafka Based Real Time Messaging System</h1> 
 
 <p align="left">
-  <strong>Backend • Distributed Systems • Event Streaming • Docker • Apache Kafka</strong>
+  <strong>Backend • Distributed Systems • Event Streaming • Docker • Apache Kafka</strong> 
 </p>   
     
 <!-- Badges -->       
