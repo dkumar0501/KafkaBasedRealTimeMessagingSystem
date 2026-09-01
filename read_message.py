@@ -2,7 +2,7 @@ from kafka import KafkaConsumer
   
 consumer = KafkaConsumer(  
     'dkumar0501-topic create',         
-    bootstrap_servers='localhost:9092',           
+    bootstrap_servers='localhost:9008',           
     auto_offset_reset='earliest',         
     enable_auto_commit=True,     
     group_id='my-group'        
