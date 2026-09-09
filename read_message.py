@@ -1,4 +1,4 @@
-from kafka import KafkaConsumer
+from kafka import KafkaConsumer 
    
 consumer = KafkaConsumer(  
     'dkumar0501-topic create',          
